@@ -1,0 +1,17 @@
+{
+  "name": "Nghiệt Duyên Phủ Hội Đồng",
+  "short_name": "Trí & Lũ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF0F5",
+  "theme_color": "#ff99cc",
+  "description": "Cậu Ba Trí & Thằng Lũ: Mối nghiệt duyên chốn thâm cung nội phủ.",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/u/0/d/1W3r3_P-4vX8m9QgarPCKgwjG1F40aVH1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
